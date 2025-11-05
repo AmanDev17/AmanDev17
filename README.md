@@ -56,7 +56,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AmanDev17&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanDev17&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=AmanDev17&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=AmanDev17&theme=radical&hide_border=true&cacheBust=1" alt="GitHub Streak" />
 </p>
 
+---
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
