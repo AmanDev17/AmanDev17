@@ -1,9 +1,14 @@
 # 👋 Hi there, I'm Aman !
 
-💻 **Full Stack Developer | MERN | Redis | AI Enthusiast**
+<p align="center">
+  <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;AI++Enthusiast+%F0%9F%9A%80;%E2%8F%B3+Expert+in+stakeholder+management+%E2%9E%A1%EF%B8%8F+;%F0%9F%97%82%EF%B8%8F+Database+Management;%F0%9F%A7%A0+Strong+analytical+skills;%F0%9F%A4%9D+Team-oriented+mindset;%F0%9F%8E%AF+Expertise+in+Agile+Model+Development" alt="Typing SVG" />
+  </a>
+</p>
 
+---
 🎓 Pursuing B.E. Computer Engineering at Indira College of Engineering and Management, Pune  
-🚀 Passionate about building scalable web apps, AI-driven systems & creative UIs  
+🚀 Passionate about building impactful and scalable digital solutions 
 
 ---
 
@@ -45,4 +50,13 @@
 </p>
 
 ---
+# 📊 GitHub Stats:
+![](https://komarev.com/ghpvc/?username=AmanDev17&base=1023)<br/>
+![](https://github-readme-stats.vercel.app/api?username=AmanDev17&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AmanDev17&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanDev17&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=AmanDev17&theme=radical" alt="GitHub Streak" />
+</p>
+
 
